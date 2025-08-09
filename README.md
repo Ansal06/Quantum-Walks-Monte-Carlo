@@ -12,6 +12,11 @@ This repository contains the implementation, analysis, and results of our projec
 - **Noise Mitigation:** Hardware-aware transpilation, gate cancellation, and zero-noise extrapolation.  
 - **Multi-Metric Validation:** Fidelity, Wasserstein distance, Kolmogorov–Smirnov statistics.
 
+## Example Quantum Circuit
+This is the 4-layer unbiased QGB circuit generated using the n-layer function:
+
+![4-layer QGB circuit](images/4layerqgb.png)
+
 ## Performance Highlights
 - **Gaussian fidelity:** ≈ 86%  
 - **Exponential fidelity:** ≈ 93%  
