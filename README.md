@@ -25,8 +25,9 @@ This is the 4-layer unbiased QGB circuit generated using the n-layer function:
 
 ## Repository Contents
 - **`notebooks/`** – Two Jupyter notebooks with full circuit construction, NISQ simulation, and analysis.  
-- **`report.pdf`** – Full technical report with theoretical background, methodology, and results.  
-- **`src/`** – Core Python implementations for QGB construction and post-processing.
+- **`report.pdf`** – Full technical report with theoretical background, methodology, and results.
+- **`images/`** – Circuit diagrams 
+- **`src/`** – Core Python implementations for QGB construction, noise analysis and post-processing.
 
 ## References
 See full reference list in `report.pdf`.
