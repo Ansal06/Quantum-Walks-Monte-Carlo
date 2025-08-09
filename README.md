@@ -2,7 +2,7 @@
 
 **From Pegs to Qubits: A Quantum Take on the Classic Galton Board**
 
-This repository contains the implementation, analysis, and results of our project on **Quantum Galton Boards (QGBs)** as *universal statistical simulators*, extending the framework proposed by [Carney & Varcoe (2022)](https://arxiv.org/abs/2202.01735). We design scalable quantum circuits capable of generating **Gaussian**, **Exponential**, and **Hadamard-walk** distributions via discrete-time quantum walks, and optimize them for **Noisy Intermediate-Scale Quantum (NISQ)** hardware.
+This repository contains the implementation, analysis, and results of our project on **Quantum Galton Boards (QGBs)** as *Universal Statistical Simulators*, extending the framework proposed by [Carney & Varcoe (2022)](https://arxiv.org/abs/2202.01735). We design scalable quantum circuits capable of generating **Gaussian**, **Exponential**, and **Hadamard-walk** distributions via discrete-time quantum walks, and optimize them for **Noisy Intermediate-Scale Quantum (NISQ)** hardware.
 
 ## Key Features
 - **Depth-Optimized Circuits:** ≤ 76 gates for a 4-layer QGB (over 2× improvement vs. reference implementations).
